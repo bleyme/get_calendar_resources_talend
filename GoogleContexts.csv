@@ -1,0 +1,4 @@
+client_id;YOUR_CLIENT_ID
+client_secret;YOUR_SECRET_ID
+scope;https://www.googleapis.com/auth/gmail.readonly https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/admin.directory.resource.calendar.readonly https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/gmail.metadata
+customer_id;YOUR_CUSTOMER_ID
